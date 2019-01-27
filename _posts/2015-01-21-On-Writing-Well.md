@@ -1,4 +1,9 @@
-On Writing Well
+---
+title:  “On Writing Well”
+categories: [blog, work]
+tags: [escrever, writing, escrita]
+---
+
 Oi, pessoal!
 
 Sumi aqui por um tempo. Agora estou de volta. Só não sei se por muito tempo…
