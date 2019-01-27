@@ -1,5 +1,5 @@
 ---
-title:  “On Writing Well (parte 2)”
+title:  “parte 2 On Writing Well”
 categories: [blog, work]
 tags: [escrever, writing, escrita]
 ---
