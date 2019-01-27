@@ -6,7 +6,7 @@ tags: [escrever, writing, escrita]
 
 #Oi, pessoal!
 
-Vamos para segunda parte do post sobre o livro. Caso tenha perdido a primeira click [aqui](https://danielcaruaru.github.io/On-Writing-Well/) .
+Vamos para segunda parte do post sobre o livro. Caso tenha perdido a primeira click [aqui](https://danielcaruaru.github.io/blog/work/On-Writing-Well/) .
 
 Agora sim, os princípios da escrita para ser um bom escritor (segundo o autor William Zinsser). 
 
